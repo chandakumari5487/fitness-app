@@ -79,5 +79,32 @@ flutter run
 - **Stateless widgets** throughout — all state in controllers
 - **CustomPainter** for avatar + ring graphics (no external assets needed)
 
-home 
-![alt text](image.png)![alt text](image-1.png)
+# 💪 Fito — Premium Gym Fitness App
+
+Premium gym fitness app with glassmorphism UI, 3D avatar, and smooth animations.
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home & Dashboard
+| | |
+|---|---|
+| ![Home](image.png) | ![Dashboard](image-1.png) |
+
+### 🏋️ Workout & Plan
+| | |
+|---|---|
+| ![Workout](assets/workout.png) | ![Plan](assets/plan.png) |
+
+### 📊 Progress & Diet
+| | |
+|---|---|
+| ![Progress](assets/progress.png) | ![Diet](assets/diet.png) |
+
+### 🎯 More Screens
+| | | |
+|---|---|---|
+| ![Screen](image-2.png) | ![Screen](image-3.png) | ![Screen](image-4.png) |
+| ![Screen](image-5.png) | ![Screen](image-6.png) | |
+
